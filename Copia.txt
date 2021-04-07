@@ -1,0 +1,100 @@
+426064 72.300003 MT   CUIABA                                                ADMINISTRACAO                
+382868 70.300003 DF   BRASILIA                                              ADMINISTRACAO                
+350655 69.300003 MT   CUIABA                                                ADMINISTRACAO                
+350655 69.300003 MT   CUIABA                                                ADMINISTRACAO                
+113812 67.300003 MT   CUIABA                                                ADMINISTRACAO                
+213829 67.300003 DF   BRASILIA                                              ADMINISTRACAO                
+440588 66.800003 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+301503 65.300003 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+150205 62.799999 DF   BRASILIA                                              ADMINISTRACAO                
+386649 62.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+86358 61.299999 DF   BRASILIA                                              ADMINISTRACAO                
+319299 60.000000 MT   CUIABA                                                ADMINISTRACAO                
+409557 58.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+120699 58.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+351991 57.799999 MT   CUIABA                                                ADMINISTRACAO                
+394101 57.500000 DF   BRASILIA                                              ADMINISTRACAO                
+131227 57.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+382513 55.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+124597 55.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+124597 55.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+280714 55.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+124947 53.799999 DF   BRASILIA                                              ADMINISTRACAO                
+123883 53.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+301105 53.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+295222 49.299999 MT   CUIABA                                                ADMINISTRACAO                
+331437 49.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+313201 48.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+213784 48.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+106233 48.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+106233 48.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+213784 48.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+41603 47.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+254576 46.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+34535 46.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+107236 40.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+173550 34.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+412481 20.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+57202 0.000000 MT   AGUA BOA                                              ADMINISTRACAO                
+239419 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+35798 45.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+412715 44.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+216194 44.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+373477 44.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+354405 43.799999 MT   CUIABA                                                ADMINISTRACAO                
+220132 43.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+9997 43.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+61117 43.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+221291 42.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+364281 42.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+340424 41.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+224450 40.500000 MT   CUIABA                                                ADMINISTRACAO                
+107236 40.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+202266 38.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+3393 37.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+409928 37.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+409928 37.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+59131 36.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+37778 36.500000 MT   CUIABA                                                ADMINISTRACAO                
+170838 34.799999 MT   CUIABA                                                ADMINISTRACAO                
+173550 34.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+101991 33.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+182746 33.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+213434 32.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+183699 31.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+163079 23.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+59573 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+151750 0.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+370724 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+57202 0.000000 MT   AGUA BOA                                              ADMINISTRACAO                
+183699 31.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+88312 31.299999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+142590 31.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+203779 30.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+23133 28.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+362081 27.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+111954 27.500000 MT   CUIABA                                                ADMINISTRACAO                
+5317 25.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+386413 24.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+210550 24.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+306088 24.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+306088 24.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+163079 23.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+412481 20.500000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+346592 14.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+301802 20.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+121505 18.799999 MT   CUIABA                                                ADMINISTRACAO                
+402740 18.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+37379 17.799999 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+269932 17.500000 MT   CUIABA                                                ADMINISTRACAO                
+65996 16.299999 MT   AGUA BOA                                              ADMINISTRACAO                
+346592 14.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+47497 0.000000 DF   BRASILIA                                              ADMINISTRACAO                
+412790 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+207334 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+151750 0.000000 MT   PRIMAVERA DO LESTE                                    ADMINISTRACAO                
+59573 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+57202 0.000000 MT   AGUA BOA                                              ADMINISTRACAO                
+370724 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+423855 0.000000 MT   CUIABA                                                ADMINISTRACAO                
+239419 0.000000 MT   CUIABA                                                ADMINISTRACAO                
